@@ -25,7 +25,7 @@ int main(void)
 	{
 		choice = convertFrom();
 		
-		state = converTo(choice);
+		converTo(choice);
 		
 		
 	}
