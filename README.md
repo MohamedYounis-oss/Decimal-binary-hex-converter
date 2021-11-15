@@ -11,6 +11,6 @@ consists of 16 button:
 - numbers from 0 to 9
 - (=) button
 - (back) button
-- 3 buttons A, B, E
-- And a button that acts as F and delete
+- 3 buttons (A), (B), (E)
+- And a button that acts as (F) and (delete).
 
